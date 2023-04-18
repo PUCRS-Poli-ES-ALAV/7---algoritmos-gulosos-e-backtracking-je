@@ -41,7 +41,7 @@ public class Gulosos {
                 i++;
             }
             else{
-                //se não ele (o intervalo atual de S) vai tornar X não disjunto e por isso deve ser ignorado
+                //se não ele (intervalo atual de S) vai tornar X não disjunto e por isso deve ser ignorado
                 i++;
             }
         }
